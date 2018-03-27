@@ -1,8 +1,7 @@
 # vaadin.com website public tracker
 
 This is a public issue tracker for the [vaadin.com](https://vaadin.com/) website. 
-It will be used to announce major changes, forecast what we are working on, and to
-field issues with the registry.
+It will be used to announce major changes, forecast what we are working on.
 
 ## What is this repository for?
 
