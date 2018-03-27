@@ -8,8 +8,7 @@ It will be used to announce major changes, forecast what we are working on.
 If there are major changes on the website we will announce them here.
 
 :+1: If you are having issues with the vaadin.com website — you cannot log in, [forum](https://vaadin.com/forum) is slow, or there is an issue with [Vaadin Directory](https://vaadin.com/directory) — **please open an
-issue here**. If your topic is sensitive you can  still contact us at [via web form]
-support](https://vaadin.com/company/contact).
+issue here**. If your topic is sensitive you can  still contact us at [vaadin.com/company/contact](https://vaadin.com/company/contact).
 
 :+1: If you want a new feature in vaadin.com — new information about something, new documentation, or new way to log in
  — **please open an issue here**. We will take the feature under
